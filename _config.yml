@@ -2,7 +2,7 @@
 baseurl: "https://yodin23.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "UA-136081898-1"
 
 # UI configs
 title: "Photography by Maxime Fraval"
@@ -15,7 +15,7 @@ footer:
  name: "Hey there, my name is Maxime"
  bio: "I am a engineer from France, I like photography, food and travel."
  github: "<a href=\"https://yodin23.github.io/photography/"> ;)"
-web_design: "AJ"
+web_design: ""
 social_urls:
   facebook: "https://www.facebook.com/"
   twitter: "https://www.twitter.com/"
